@@ -19,4 +19,20 @@ The results are analyzed and compared with those obtained in similar papers.
 Furthermore, different aproaches are discussed, where new types of errors or other types of
 games and methods specific to artificial intelligence are found.
 
+## Dataset
+
+### One example of each class - bookstore object
+![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/4f36b9aa-b567-4c3b-8347-ec33a607587a) ![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/bb61916b-a718-4cd3-bffb-155290c41cdc) ![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/5e06ba45-2ca0-4f03-ba00-b2ef44f25f31)
+![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/7af0ba9b-2561-4008-ad27-38a7a43820ee) ![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/6cc23b37-ea4c-4108-ad52-1f769104a340)
+
+### Random rotations of object
+![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/b73d48c7-7edb-403b-9c2f-34bb28b90eb7) ![image](https://github.com/NacuAndrei/Glitch-detection-in-video-games/assets/80635358/e4dbfa9e-e4fa-4133-ac8e-3bd66e7bd734)
+
+
+
+
+
+
+
+
 
